@@ -335,6 +335,7 @@ l'entraînement).
 
 **Critères d'acceptation :**
 - Mon compte commerçant ou artisan (administrateur de compte) validé par l’administration.
+- Je peux créer une campagne promotionnelle (texte, image, lien).
 - Je peux ajouter le nom du produit ou service en promotion, le prix avant/après, une brève description du produit et une photo.
 
 ### US021 - Gestion des promotions
@@ -343,7 +344,6 @@ l'entraînement).
 **Afin de** mettre à jour mes promotions
 
 **Critères d'acceptation :**
-- Je peux créer une campagne promotionnelle (texte, image, lien)
 - Je peux supprimer une promotion.
 - Je peux envoyer des messages ou des promotions aux utilisateurs ayant mis en favoris mon commerce ou mes produits/services afin de fidéliser ma clientèle.
 
@@ -391,7 +391,7 @@ l'entraînement).
 **Critères d'acceptation :**
 - Je peux filtrer par type de commerce les statistiques globales.
 - Je peux voir le nombre d’utilisateurs et commerces actifs.
-- Je peux extraire mes données de statistiques de ventes sous format .xls
+- Je peux extraire des données de statistiques de ventes sous format .xls
 - Je peux générer un rapport d'activité sous format .pdf
 
 <!-- Maquetter en WireFriming :
