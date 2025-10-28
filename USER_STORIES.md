@@ -347,7 +347,6 @@ l'entraînement).
 - Je peux supprimer une promotion.
 - Je peux envoyer des messages ou des promotions aux utilisateurs ayant mis en favoris mon commerce ou mes produits/services afin de fidéliser ma clientèle.
 
-
 ### US022 - Gestion des avis déposés par les clients
 **En tant qu'** commerçants ou artisans enregistrés
 **Je veux** gérer les avis clients
@@ -395,7 +394,7 @@ l'entraînement).
 - Je peux extraire mes données de statistiques de ventes sous format .xls
 - Je peux générer un rapport d'activité sous format .pdf
 
-<!-- Maquetter en WareFriming :
+<!-- Maquetter en WireFriming :
 
 Faire dans un premier temps
 Gestion des utilisateurs
